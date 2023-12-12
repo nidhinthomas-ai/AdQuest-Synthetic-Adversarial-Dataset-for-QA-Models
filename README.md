@@ -1,6 +1,6 @@
 # AdQuest-Synthetic-Adversarial-Dataset-for-QA-Models
 
-Welcome to our GitHub repository focused on enhancing the robustness of NLP models in question answering, specifically examining the ELECTRA_{Small} model. Our research delves into how these advanced models perform against adversarial datasets, a significant challenge due to their traditional training on static datasets like SQuAD. This conventional training approach leaves them vulnerable to adversarial attacks, as they tend to learn dataset-specific artifacts. We critically evaluate the ELECTRASmall model's performance, not only on the standard SQuAD1.1 dataset but also on a variety of adversarial datasets derived from it, uncovering its susceptibility to such attacks.
+Welcome to our GitHub repository focused on enhancing the robustness of NLP models in question answering, specifically examining the ELECTRA_Small model. Our research delves into how these advanced models perform against adversarial datasets, a significant challenge due to their traditional training on static datasets like SQuAD. This conventional training approach leaves them vulnerable to adversarial attacks, as they tend to learn dataset-specific artifacts. We critically evaluate the ELECTRA-Small model's performance, not only on the standard SQuAD1.1 dataset but also on a variety of adversarial datasets derived from it, uncovering its susceptibility to such attacks.
 
 ![Alt text](./AdQuest.png)
 
