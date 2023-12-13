@@ -33,3 +33,8 @@ For this purpose, we follow the instructures provided in https://github.com/maxb
 In this project, we focussed on Questions beginning with 'when', 'which', 'how long' and 'where' question words. Here, I explored specifically the temporal, spatial, numerical and implicit question comprehension types. 
 
 The example fine-tuning scripts are provided in models directory.
+
+The fine-tuned models can be found at:
+
+https://huggingface.co/nidhinthomas
+
